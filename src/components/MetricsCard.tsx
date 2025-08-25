@@ -18,7 +18,6 @@ import {
   MemoryStick,
   Network,
   Zap,
-  BarChart3,
 } from "lucide-react";
 import {
   PerformanceMetrics,

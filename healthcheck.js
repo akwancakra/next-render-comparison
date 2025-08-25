@@ -1,3 +1,4 @@
+/* eslint-disable @typescript-eslint/no-require-imports */
 // Simple health check for Docker container
 const http = require("http");
 

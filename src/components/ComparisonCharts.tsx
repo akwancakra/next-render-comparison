@@ -21,14 +21,12 @@ import {
   LineChart,
   Line,
   XAxis,
-  YAxis,
   CartesianGrid,
   BarChart,
   Bar,
   RadarChart,
   PolarGrid,
   PolarAngleAxis,
-  PolarRadiusAxis,
   Radar,
 } from "recharts";
 import { RenderingMethodMetrics } from "@/lib/performance";
